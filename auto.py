@@ -1,9 +1,10 @@
+#bad practise, but i could not figure out cron:/
 import schedule
 import time
-import new_n
+import final
 def task():
     print("Job Executing!")
-    new_n.runnin()
+    final.runnin()
 
 schedule.every(6).hours.do(task)
 
