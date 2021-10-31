@@ -4,7 +4,6 @@ download chromedriver from https://chromedriver.chromium.org/<br>
 get twilio account from https://www.twilio.com/<br>
 
 <h2>to do </h2>
-<li> update code to remove the DeprecationWarning's
 <li> check if it works with multiple test enries
 
 
