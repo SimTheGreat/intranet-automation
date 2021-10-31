@@ -7,7 +7,7 @@ get twilio account from https://www.twilio.com/<br>
 <li> update code to remove the DeprecationWarning's
 <li> check if it works with multiple test enries
 
-you can use cron to scedule when to run code: https://www.tutorialspoint.com/unix_commands/crontab.htm
+
 
 
 
